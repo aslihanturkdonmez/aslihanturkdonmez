@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 , I'm Aslı</h1>
 <h3 align="center">Jr. Frontend Developer From Turkey</h3>
 
-- 😎 I am an intern in the mobile department at [Kentkart](https://www.kentkart.com/tr)
+<!-- - 😎 I am an intern in the mobile department at [Kentkart](https://www.kentkart.com/tr) -->
 
 - 🔭 I'm currently working on React Native, React
 
